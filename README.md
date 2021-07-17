@@ -1,8 +1,14 @@
 # Git_Command
 ```
 git add . 
+```
+```
 git commit -m "first commit"
-git remote add origin https://github.com/anuchit1999/test1.git
+```
+```
+git remote add origin <url>
+```
+```
 git push -u origin master
 ```
 
