@@ -1,5 +1,8 @@
 # Git_Command
 ```
+git status 
+```
+```
 git add . 
 ```
 ```
@@ -11,7 +14,9 @@ git remote add origin <url>
 ```
 git push -u origin master
 ```
-
+```
+git status 
+```v
 
 
 
