@@ -1,4 +1,8 @@
 # Git_Command
+
+```
+git init
+```
 ```
 git status 
 ```
