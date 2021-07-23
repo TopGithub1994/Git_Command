@@ -1,8 +1,9 @@
 # Git_Command
 
+1. Init on your folder:
 ```
 git init
-```
+```     
 ```
 git status 
 ```
@@ -21,7 +22,7 @@ git push -u origin main
 ```
 git status 
 ```
-# For Git Branch Merge
+## For Git Branch Merge
 ```
 git pull origin master --allow-unrelated-histories
 git pull origin main --allow-unrelated-histories
