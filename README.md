@@ -32,6 +32,10 @@ git remote -v
 ```
 git fetch
 ```
+- Using Git pull for fetch and merge remote to local
+```
+git pull
+```
 ## For Git Branch Merge
 ```
 git pull origin master --allow-unrelated-histories
